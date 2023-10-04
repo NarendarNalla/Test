@@ -1,6 +1,6 @@
 package com.naren;
 
-public class Cluster {
+public class Node {
 
 	
 	private String name;
